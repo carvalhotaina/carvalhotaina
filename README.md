@@ -10,7 +10,7 @@ Sou estudande de Sistemas , e desde pequena sou facinada com tecnologia e de com
 ### PROJETO
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carvalhotaina&repo=Tiktok-clone&theme=dark
-)]([https://github.com/carvalhotaina/Tiktok-clone.git])
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LINGUAGENS UTILIZADAS
 
