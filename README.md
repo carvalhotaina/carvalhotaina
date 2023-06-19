@@ -17,6 +17,7 @@ Sou estudande de Sistemas , e desde pequena sou facinada com tecnologia e de com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhotaina&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###CONTATOS:
+
 linkedin: https://www.linkedin.com/in/ta%C3%ADna-carvalho/
 
 email:tai.taicarvalho@gmail.com
