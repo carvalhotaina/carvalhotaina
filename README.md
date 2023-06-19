@@ -18,4 +18,5 @@ Sou estudande de Sistemas , e desde pequena sou facinada com tecnologia e de com
 
 ###CONTATOS:
 linkedin: https://www.linkedin.com/in/ta%C3%ADna-carvalho/
+
 email:tai.taicarvalho@gmail.com
